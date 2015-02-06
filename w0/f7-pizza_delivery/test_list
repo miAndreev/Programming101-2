@@ -1,0 +1,12 @@
+take Rado 10.0
+take Rado 10
+take Ivan 6.43
+take Maria 7.50
+status
+save
+list
+take Maria 10.0
+status
+load 1
+status
+finish
